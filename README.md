@@ -81,14 +81,8 @@ Follow these steps to set up and run the Noted application locally:
 
 3. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Noted application.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please create a GitHub issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feel free to customize the README further based on your project's structure, additional features, or any specific instructions for deployment.
